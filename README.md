@@ -21,10 +21,16 @@ Code Refactor is an project introduce us to HTML, let us exam website code and s
 
 - add alt to all image, descript what is the image about
 - <img width="1440" alt="Screen Shot 2022-03-30 at 11 50 31 PM" src="https://user-images.githubusercontent.com/100381618/160995140-778d3aed-3e16-4c5b-9a1e-37aaa2c31951.png">
-<img width="1440" alt="Screen Shot 2022-04-05 at 10 17 11 AM" src="https://user-images.githubusercontent.com/100381618/161813538-770e33de-e9ab-4fef-a667-e589b7be8209.png">
 
 
-#### License
+
+
+##### Deployed sited Link and Screenshot
+-  https://nghia314.github.io/code-refactor/
+- <img width="1440" alt="Screen Shot 2022-04-05 at 10 17 11 AM" src="https://user-images.githubusercontent.com/100381618/161813538-770e33de-e9ab-4fef-a667-e589b7be8209.png">
+
+
+###### License
 - MIT License
 
 Copyright (c) [2022] [Nghia-Le]
